@@ -35,7 +35,7 @@ div.navbar-header{
   width: 100%;
 }
 
-@media (min-width: 576px){
+@media (min-width: 768px){
   .navbar-toggler, #navbarNavDropdown
     {
       /*visibility: hidden;*/
